@@ -91,17 +91,19 @@ y hacer un coomit inicial con el mensaje **commit inicial**.
 ## Cuenta de GitHub
 
 1. Poner una foto en vuestro perfil de GitHub.
-
+![Captura](https://user-images.githubusercontent.com/91134279/158696825-e0758c17-35e3-42a4-829b-d8e0c65bb49e.JPG)
 1. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+![Captura2](https://user-images.githubusercontent.com/91134279/158697107-e4d4321a-7568-4285-9ba8-700a149e88b8.JPG)
+![Captura3](https://user-images.githubusercontent.com/91134279/158697657-d832d15a-b3eb-467b-bf80-f793f24c5ad5.JPG)
 
 1. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
 
 ## Uso social de GitHub
 
 1. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles.
-
+![Captura4](https://user-images.githubusercontent.com/91134279/158697897-2d2a524f-9318-4478-9114-74f0f06ea348.JPG)
 1. Añadir una estrella a los repositorios del resto de tus compañeros.
-
+![Captura5](https://user-images.githubusercontent.com/91134279/158697937-0c355732-5df1-48f1-b468-a227e9b0b99c.JPG)
 ## Crear una tabla
 
 1. Crear una tabla de este estilo en el fichero **README.md** con la información
@@ -109,7 +111,7 @@ de varios de tus compañeros de clase:
 
 |        NOMBRE          |                     GITHUB                        |
 |------------------------|---------------------------------------------------|
-| Nombre del compañero 1 | [enlace a github 1](http://github.com/i12vecaj) |
+| Dani Balsera           |                 (https://github.com/DaniBalsera) |
 | Nombre del compañero 2 | [enlace a github 1](http://github.com/i12vecaj) |
 | Nombre del compañero 3 | [enlace a github 3](http://github.com/i12vecaj) |
 
@@ -117,26 +119,26 @@ de varios de tus compañeros de clase:
 
 1. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
 del repositorio **masteruah**
-
+comprobar en cuenta
 ## Crear una organización
 
 1. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
-
+comprobar en cuenta
 ## Crear equipos
 
 1. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
 uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
-
+comprobar en cuenta
 1. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros
 compañeros de clase en el equipo **administradores**.
-
+comprobar en cuenta
 1. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a otros 2 de vuestros
 compañeros de clase en el equipo **colaboradores**.
-
+comprobar en cuenta
 ## Crear un index.html
 
 1. Crear un index.html que se pueda ver como página web en la organización.
-
+comprobar en cuenta
 ## Crear Pull-requests
 
 1. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
